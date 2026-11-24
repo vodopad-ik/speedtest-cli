@@ -1,0 +1,17 @@
+{
+  "name": "speedtest-cli",
+  "version": "1.0.0",
+  "description": "Консольный замер скорости скачивания по HTTP(S)",
+  "main": "src/measure.js",
+  "bin": {
+    "speedtest": "bin/speedtest.js"
+  },
+  "scripts": {
+    "start": "node bin/speedtest.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.3"
+  },
+  "license": "MIT"
+}
