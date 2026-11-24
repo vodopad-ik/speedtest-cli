@@ -12,7 +12,7 @@
 ## Запуск
 
 ```bash
-git clone https://github.com/<username>/speedtest-cli.git
+git clone https://github.com/vodopad-ik/speedtest-cli.git
 cd speedtest-cli
 
 node bin/speedtest.js https://proof.ovh.net/files/10Mb.dat
